@@ -1,7 +1,3 @@
-<!-- SONU MEHTA -->
-
----
-
 # 🚀 DailyCodePractice
 
 Welcome to **DailyCodePractice** – a personal repository to stay consistent, sharpen my coding skills, and maintain an active GitHub contribution streak.
